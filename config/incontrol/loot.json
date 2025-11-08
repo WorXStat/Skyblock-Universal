@@ -1,0 +1,44 @@
+[
+    {
+      "mob": "thaumcraft:eldritchgolem",
+      "remove": "thaumcraft:primordial_pearl"
+    },
+     {
+      "mob": "thaumcraft:cultistportalgreater",
+      "remove": "thaumcraft:primordial_pearl"
+    },
+    {
+      "mob": "thaumcraft:cultistportallesser",
+      "remove": "thaumcraft:primordial_pearl"
+    },
+    {
+      "mob": "aether_legacy:moa",
+      "item":"contenttweaker:raw_moameat",
+      "random": 1.0,
+      "itemcount": "1/2-3/4-5"
+    },
+    {
+      "mob": "aether_legacy:aerwhale",
+      "item":"contenttweaker:raw_whalemeat",
+      "random": 1.0,
+      "itemcount": "3/3-4/4-5"
+    },
+    {
+      "mob": "aether_legacy:aerbunny",
+      "item":"contenttweaker:raw_aerbunny_meat",
+      "random": 1.0,
+      "itemcount": "1/1-2/3-4"
+    },
+    {
+        "mob": "thaumcraft:cultistportalgreater",
+        "remove": "thaumcraft:primordial_pearl"
+    },
+    {
+        "mob": "thaumcraft:cultistportalgreater",
+        "remove": "thaumcraft:primordial_pearl"
+    }, 
+    {
+        "mob": "thaumcraft:cultistportalgreater",
+        "remove": "thaumcraft:primordial_pearl"
+      } 
+  ]

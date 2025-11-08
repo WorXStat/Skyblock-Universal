@@ -1,0 +1,12 @@
+[{	
+  "mob":["everythingbad:jesus","everythingbad:stupid_skeleton","everythingbad:hillbilly"],
+  "onjoin": true,
+  "dimension": 4,
+  "result":"deny"
+},
+{	
+  "mob":["everythingbad:jesus","everythingbad:stupid_skeleton","everythingbad:hillbilly"],
+  "onjoin": true,
+  "dimension": 69,
+  "result":"deny"
+}]

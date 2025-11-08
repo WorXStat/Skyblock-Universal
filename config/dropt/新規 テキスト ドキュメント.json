@@ -1,0 +1,22 @@
+{
+    "rules": [
+      {
+        "match": {
+          "blocks": {
+            "blocks": [
+              "extraplanets:white_sugar_cane"
+            ]
+          }
+        },
+        "drops": [
+          {
+            "item": {
+              "items" : [
+                "extraplanets:white_sugar_cane_item"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }

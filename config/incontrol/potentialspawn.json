@@ -1,0 +1,13 @@
+[{
+    "dimension": -4,
+    "mod": "everythingbad",
+    "onjoin": true,
+    "result": "deny"
+  },
+  {
+	
+    "mob":["abyssalcraft:demoncow","abyssalcraft:demonsheep","abyssalcraft:demonpig","abyssalcraft:demonchicken"],
+    "onjoin": true,
+    "dimension": -4,
+    "result":"deny"
+}]
