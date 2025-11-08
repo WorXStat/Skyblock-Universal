@@ -1,0 +1,88 @@
+
+{
+  "ID": 245,
+  "Name": "Frostbitten Forest",
+  "Resource Location": "blue_skies:frostbit_forest",
+  "Class": "com.legacy.blue_skies.world.everbright.biome.BiomeFrostbitForest",
+  "Root Height": 1.1,
+  "Height Variation": 0.0,
+  "Top Block": "blue_skies:turquoise_grass[home_dim\u003dtrue,snowy\u003dfalse]",
+  "Filler Block": "blue_skies:turquoise_dirt",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "7500402",
+  "Temperature": 0.0,
+  "Humidity": 0.8,
+  "Water Tint": 7500402,
+  "Enable Rain": true,
+  "Enable Snow": true,
+  "Dictionary Types": [
+    "LUSH",
+    "FOREST",
+    "MAGICAL",
+    "SNOWY",
+    "DENSE",
+    "PLAINS",
+    "COLD"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityWolf",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityBlackBear",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "com.legacy.blue_skies.entities.hostile.EntityArmoredFrostSpirit",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "thaumcraft.common.entities.monster.EntityPech",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dna.everythingisbad.entity.EntityStupidSkeleton",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "com.dna.everythingisbad.entity.EntityJesus",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.dna.everythingisbad.entity.EntityHillbilly",
+      "Weight": 5,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}
