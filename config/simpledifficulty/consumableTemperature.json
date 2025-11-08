@@ -1,0 +1,408 @@
+{
+  "harvestcraft:chocolateicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harstcraft:starfruitsmoothieitemve": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:grapefruitsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:caramelicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:vanillaicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:bananasmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:peachsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:cherrysmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:grapesmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:blueberrysmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:lemonsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:kiwismoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:limesmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:strawberrysmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:blackberrysmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:applesmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:figsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:icecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:cherryicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:apricotsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:melonsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:mintchocolatechipicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:cranberrysmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "simpledifficulty:juice": [
+    {
+      "identity": {
+        "metadata": 2
+      },
+      "group": "drink",
+      "temperature": 1.0,
+      "duration": 1200
+    },
+    {
+      "identity": {
+        "metadata": 4
+      },
+      "group": "drink",
+      "temperature": 1.0,
+      "duration": 2400
+    },
+    {
+      "identity": {
+        "metadata": 1
+      },
+      "group": "drink",
+      "temperature": 1.0,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:mochaicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:persimmonsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:neapolitanicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:mangosmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "minecraft:mushroom_stew": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": 2.0,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:gooseberrysmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:raspberrysmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:plumsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:pistachioicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:orangesmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:coconutsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:spumoniicecreamitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2200
+    }
+  ],
+  "harvestcraft:pearsmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "food",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:pomegranatesmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ],
+  "harvestcraft:papayasmoothieitem": [
+    {
+      "identity": {
+        "metadata": 0
+      },
+      "group": "drink",
+      "temperature": -7.2,
+      "duration": 2400
+    }
+  ]
+}

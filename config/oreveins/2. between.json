@@ -1,0 +1,182 @@
+
+	{
+		"coraliumore": {
+			"type": "cluster",
+			"ore": "abyssalcraft:coraliumore",
+			"stone": "thebetweenlands:betweenstone",
+			"indicator": {
+			"blocks": "abyssalcraft:luminousthistle",
+			"max_depth": 200
+			},
+			"rarity": 5,
+			"count": 1,
+			"min_y": 0,
+			"max_y": 150,
+			"density": 99,
+			"vertical_size": 4,
+			"horizontal_size": 6,
+			"biomes": [
+			  "Floating Islands",
+			  "Patchy Islands",
+			  "Swamplands",
+			  "Deep Waters",
+			  "Coarse Islands",
+			  "Raised Isles",
+			  "Sludge Plains",
+			  "Marsh 0",
+			  "Marsh 1",
+			  "Swamplands Clearing",
+			  "Sludge Plains Clearing"
+			],
+			"dimensions": [
+				11
+			]
+		    },
+            
+
+			"stone_abyss": {
+			"type": "cluster",
+			 "ore": [
+			 {
+		    "block": "abyssalcraft:stone",
+			"weight": 10
+			},
+			{
+			"block": "thebetweenlands:betweenstone",
+			"weight": 30
+			}
+		    ],
+			"dimensions":[
+			11
+			],
+			"biomes": [
+				"Floating Islands",
+				"Patchy Islands",
+				"Swamplands",
+				"Coarse Islands",
+				"Raised Isles",
+				"Sludge Plains",
+				"Marsh 0",
+				"Marsh 1",
+				"Swamplands Clearing",
+				"Sludge Plains Clearing"
+			  ],
+			"stone": "thebetweenlands:betweenstone",
+		    "rarity": 4,
+			"min_y": 0,
+			"max_y": 168,
+			"density": 200,
+			"vertical_size": 20,
+			"horizontal_size": 30
+			},
+
+            "gold_ore":{
+             "type":"cluster",
+			 "ore":[
+				{"block": "gregtech:ore_gold_0",
+					"meta": 3,
+					"weight": 8
+					},
+				{"block": "gregtech:ore_gold_0",
+					"meta": 2,
+					"weight": 32
+				}
+				],
+                "dimensions":[
+					11
+					],
+					"biomes": [
+						"Floating Islands",
+						"Patchy Islands",
+						"Coarse Islands",
+						"Raised Isles"
+					  ],
+					"stone": "thebetweenlands:pitstone",
+					"indicator": {
+						"blocks": {
+					"block": "plants2:cosmetic_5",
+					"meta": 2
+				   },
+					"max_depth": 150
+						},
+                    "rarity": 5,
+			        "min_y": 0,
+			        "max_y": 120,
+					"density": 130,
+					"vertical_size": 15,
+					"horizontal_size": 20
+	        },
+			"iron_ore":{
+				"type":"cluster",
+				"ore":[
+				   {"block": "gregtech:ore_brown_limonite_0",
+					   "meta": 3,
+					   "weight": 32
+					   },
+				   {"block": "gregtech:ore_iron_0",
+					   "meta": 3,
+					   "weight": 8
+				   }
+				   ],
+				   "dimensions":[
+					   11
+					   ],
+					   "biomes": [
+						"Swamplands",
+						"Marsh 0",
+						"Marsh 1",
+						"Swamplands Clearing"
+						 ],
+					   "stone":"thebetweenlands:betweenstone",
+					   "indicator": {
+						   "blocks": "harvestcraft:soggygarden",
+						   "max_depth": 160
+						   },
+					   "rarity": 6,
+					   "min_y": 0,
+					   "max_y": 120,
+					   "density": 140,
+					   "vertical_size": 18,
+					   "horizontal_size": 20
+			   },
+			   "sodium":{
+				"type":"cluster",
+				"ore":[
+				   {"block": "gregtech:ore_salt_0",
+					   "meta": 3,
+					   "weight": 26
+					   },
+				   {"block": "gregtech:ore_rock_salt_0",
+					   "meta": 3,
+					   "weight": 14
+				   }
+				   ],
+				   "dimensions":[
+					   11
+					   ],
+					   "biomes": [
+						"Swamplands",
+						"Deep Waters",
+						"Swamplands Clearing",
+						"Floating Islands",
+						"Patchy Islands",
+						"Coarse Islands",
+						"Raised Isles"
+						 ],
+					   "stone":"thebetweenlands:betweenstone",
+					   "indicator": {
+						   "blocks": {
+							"block": "plants2:cosmetic_6",
+						"meta": 3
+						},
+						"max_depth": 160
+						 },
+					   "rarity": 3,
+					   "min_y": 0,
+					   "max_y": 120,
+					   "density": 140,
+					   "vertical_size": 18,
+					   "horizontal_size": 20
+			   }
+			}
+		

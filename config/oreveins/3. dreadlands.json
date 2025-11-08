@@ -1,0 +1,101 @@
+{
+  "redstone": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "gregtech:ore_redstone_0",
+        "meta":11,
+        "weight": 30
+      },
+      {
+        "block": "gregtech:ore_cinnabar_0",
+        "meta":11,
+        "weight": 2
+      },
+      {
+        "block": "gregtech:poor_ore_ruby_0",
+        "meta":11,
+        "weight": 8
+      }
+    ],
+    "stone":[
+      {
+        "block": "abyssalcraft:stone",
+        "meta":2
+      },
+      {
+        "block": "abyssalcraft:stone",
+        "meta":3
+      }],
+    "indicator": {
+      "blocks": "thebetweenlands:cardinal_flower",
+      " max_depth ": 100
+      },
+      "rarity": 11,
+      "count": 2,
+      "min_y": 0,
+      "max_y": 100,
+      "density": 40,
+      "vertical_size": 20,
+      "horizontal_size": 20,
+      "biomes": [
+        "Dreadlands",
+        "Purified Dreadlands",
+        "Dreadlands Forest",
+        "Dreadlands Mountains"
+      ],
+      "dimensions":[
+        51
+        ]
+    },
+    "Tetrahedrite": {
+      "type": "cluster",
+      "ore": [
+        {
+          "block": "gregtech:ore_stibnite_0",
+          "meta":11,
+          "weight": 10
+        },
+        {
+          "block": "gregtech:ore_tetrahedrite_0",
+          "meta":11,
+          "weight": 20
+        }, 
+        {
+          "block": "gregtech:ore_copper_0",
+          "meta":11,
+          "weight": 10
+        }
+      ],
+      "stone":[
+        {
+          "block": "abyssalcraft:stone",
+          "meta":2
+        },
+        {
+          "block": "abyssalcraft:stone",
+          "meta":3
+        }],
+      "indicator": {
+        "blocks": "thebetweenlands:boneset",
+        " max_depth ": 100
+        },
+        "rarity": 20,
+        "count": 2,
+        "min_y": 0,
+        "max_y": 100,
+        "density": 40,
+        "vertical_size": 20,
+        "horizontal_size": 20,
+        "biomes": [
+          "Dreadlands",
+          "Purified Dreadlands",
+          "Dreadlands Forest",
+          "Dreadlands Mountains"
+        ],
+        "dimensions":[
+          51
+          ]
+      }  
+  
+}

@@ -1,0 +1,33 @@
+{
+	"name": "warning",            
+	"icon": "minecraft:barrier",   
+	"color": "0d041c",                          
+	"visible": true,             
+	"enabled": true,            
+	"food": {                    
+		"oredict": [ "listAllalcohol"           
+			 
+		],                        
+		"items": [    
+			"everythingbad:cigarette",  
+			"everythingbad:cigar",  
+			"hempfarmer:regs_joint",  
+			"hempfarmer:indica_joint",  
+			"hempfarmer:sativa_joint",  
+			"hempfarmer:bowl_hemp_hearts",  
+			"hempfarmer:bowl_lime_hemp_hearts",  
+			"hempfarmer:bowl_violet_hemp_hearts",  
+			"everythingbad:angel_dust",
+			"thebetweenlands:bulb_capped_mushroom_item",
+			"primal:aconite_sprig",
+			"alchemistry:compound:1:60",
+			"alchemistry:compound:1:56",
+			"alchemistry:compound:1:21",
+			"alchemistry:compound:1:26",
+			"alchemistry:compound:1:32",
+			"primal:aconite_petal"
+		      
+			
+		]
+	}
+}

@@ -1,0 +1,119 @@
+{
+  "coal ore": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "gregtech:ore_coal_0",
+        "meta":13,
+        "weight": 12
+      },
+      {
+        "block": "gregtech:ore_lignite_0",
+        "meta":13,
+        "weight": 8
+      }, 
+      {
+        "block": "gregtech:ore_lignite_0",
+        "meta":10,
+        "weight": 20
+      }],
+    "stone": "blue_skies:lunar_stone",
+    "indicator": {
+      "blocks": "minecraft:deadbush",
+      " max_depth ": 40
+      },
+      "rarity": 10,
+      "count": 3,
+      "min_y": 0,
+      "max_y": 100,
+      "density": 30,
+      "vertical_size": 20,
+      "horizontal_size": 20,
+      "biomes": [
+        "Shaded Woodlands",
+        "Sunset Maple Forest",
+        "Unorthodox Valley"
+      ],
+      "dimensions":[
+        77
+        ]
+    },
+  
+  "redstone": {
+    "type": "cone",
+    "ore": [
+      {
+        "block": "gregtech:ore_redstone_0",
+        "meta":13,
+        "weight": 25
+      },
+      {
+        "block": "gregtech:ore_garnet_red_0",
+        "meta":13,
+        "weight": 10
+      }, 
+      {
+        "block": "gregtech:ore_ruby_0",
+        "meta":13,
+        "weight": 5
+      }],
+    "stone": "blue_skies:lunar_stone",
+    "rarity": 15,
+    "min_y": 8,
+    "max_y": 100,
+    "density": 360,
+    "vertical_size": 20,
+    "horizontal_size": 10,
+    "inverted": true,
+    "biomes": [
+      "Crystal Dunes"
+    ],
+    "dimensions":[
+      77
+      ]
+  },
+  "Green Sapphire": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "gregtech:ore_green_sapphire_0",
+        "weight": 5,
+        "meta":13
+      },
+      {
+        "block": "gregtech:poor_ore_green_sapphire_0",
+        "weight": 15,
+        "meta":13
+      },
+      {
+        "block": "gregtech:poor_ore_emerald_0",
+        "weight": 15,
+        "meta":13
+      },
+      {
+        "block": "blue_skies:everdawn_emerald_ore",
+        "weight": 5
+      }
+    ],
+    "indicator": {
+      "blocks": "minecraft:deadbush",
+      "blocks_under": "minecraft:sand",
+      "rarity": 40
+    },
+    "stone": "blue_skies:lunar_stone",
+    "rarity": 15,
+    "min_y": 8,
+    "max_y": 100,
+    "density": 360,
+    "vertical_size": 20,
+    "horizontal_size": 10,
+    "biomes": [
+      "Crystal Dunes",
+      "Unorthodox Valley",
+      "Shaded Woodlands"
+    ],
+    "dimensions":[
+      77
+      ]
+  }
+  }

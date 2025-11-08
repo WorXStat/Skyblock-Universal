@@ -1,0 +1,230 @@
+
+	{
+		"clay": {
+		  "type": "cluster",
+		  "ore": "minecraft:clay",
+		  "stone":"aether_legacy:aercloud",
+		  "rarity": 5,
+		  "count": 1,
+		  "min_y": 0,
+		  "max_y": 120,
+		  "density": 100,
+		  "vertical_size": 10,
+		  "horizontal_size": 10,
+		  "biomes": [
+			"Aether"
+		  ],
+		  "dimensions": [
+			
+			4
+		]
+		},
+		"crystal_aer": {
+			"type": "cluster",
+			"ore":  
+				"thaumcraft:crystal_aer",
+			"stone":[ {
+				"block": "aether_legacy:holystone"
+				},
+				{
+				"block": "aether_legacy:mossy_holystone"
+				}],
+			"indicator": {
+			"blocks":{
+			"block":"plants2:cosmetic_3",
+			"meta": 15
+		    },
+			"max_depth": 50
+			},
+			"rarity": 20,
+			"count": 1,
+			"min_y": 0,
+			"max_y": 120,
+			"density": 90,
+			"vertical_size": 10,
+			"horizontal_size": 10,
+			"biomes": [
+				"Aether"
+			  ],
+			  "dimensions": [
+				4
+			]},
+			
+			"crystal_aqua": {
+				"type": "cluster",
+				"ore":  
+					"thaumcraft:crystal_aqua",
+				"stone": "aether_legacy:holystone",
+				"indicator": {
+				"blocks":{
+				"block":"plants2:cosmetic_5",
+				"meta": 3
+			    },
+				"max_depth": 50
+				},
+				"rarity": 20,
+				"count": 1,
+				"min_y": 0,
+				"max_y": 120,
+				"density": 90,
+				"vertical_size": 10,
+				"horizontal_size": 10,
+				"biomes": [
+					"Aether"
+				  ],
+				  "dimensions": [
+					4
+				]},
+
+				"crystal_ignis": {
+					"type": "cluster",
+					"ore":  
+						"thaumcraft:crystal_ignis",
+					"stone":[ {
+						"block": "aether_legacy:holystone"
+						},
+						{
+						"block": "aether_legacy:mossy_holystone"
+						}],
+					"indicator": {
+					"blocks": {
+					"block":"plants2:cosmetic_2",
+					"meta": 7
+					},
+					"max_depth": 60
+					},
+					"rarity": 20,
+					"count": 1,
+					"min_y": 0,
+					"max_y": 120,
+					"density": 90,
+					"vertical_size": 10,
+					"horizontal_size": 10,
+					"biomes": [
+						"Aether"
+					  ],
+					  "dimensions": [
+						4
+					]},
+
+					"crystal_ordo": {
+						"type": "cluster",
+						"ore":  
+							"thaumcraft:crystal_ordo",
+						"stone":[ {
+							"block": "aether_legacy:holystone"
+							},
+							{
+							"block": "aether_legacy:mossy_holystone"
+							}],
+						"indicator": {
+						"blocks": {
+                         "block":"plants2:cosmetic_2",
+								"meta": 11
+							}
+							,
+						"max_depth": 50
+						},
+						"rarity": 20,
+						"count": 1,
+						"min_y": 0,
+						"max_y": 120,
+						"density": 90,
+						"vertical_size": 10,
+						"horizontal_size": 10,
+						"biomes": [
+							"Aether"
+						  ],
+						  "dimensions": [
+							4
+						]},
+
+
+						"crystal_perditio": {
+							"type": "cluster",
+							"ore":  
+								"thaumcraft:crystal_perditio",
+							"stone":[ {
+								"block": "aether_legacy:holystone"
+								},
+								{
+								"block": "aether_legacy:mossy_holystone"
+								}],
+								"indicator": {
+									"blocks":
+											{"block":"plants2:cosmetic_2",
+												"meta": 14
+											},
+							"max_depth": 50
+							},
+							"rarity": 20,
+							"count": 1,
+							"min_y": 0,
+							"max_y": 120,
+							"density": 90,
+							"vertical_size": 10,
+							"horizontal_size": 10,
+							"biomes": [
+								"Aether"
+							  ],
+							  "dimensions": [
+								4
+							]},
+	
+							"thaumcraft:crystal_terra": {
+								"type": "cluster",
+								"ore":  
+									"thaumcraft:crystal_terra",
+								"stone":[ {
+									"block": "aether_legacy:holystone"
+									},
+									{
+									"block": "aether_legacy:mossy_holystone"
+									}],
+									"indicator": {
+										"blocks": 
+								"harvestcraft:windygarden",
+								"max_depth": 50
+								},
+								"rarity": 20,
+								"count": 1,
+								"min_y": 0,
+								"max_y": 120,
+								"density": 90,
+								"vertical_size": 10,
+								"horizontal_size": 10,
+								"biomes": [
+									"Aether"
+								  ],
+								  "dimensions": [
+									4
+								]},
+								"thaumcraft:crystal_terra": {
+									"type": "cluster",
+									"ore":  
+										"thaumcraft:crystal_terra",
+									"stone":[ {
+										"block": "aether_legacy:holystone"
+										},
+										{
+										"block": "aether_legacy:mossy_holystone"
+										}],
+										"indicator": {
+											"blocks": 
+									"harvestcraft:windygarden",
+									"max_depth": 50
+									},
+									"rarity": 20,
+									"count": 1,
+									"min_y": 0,
+									"max_y": 120,
+									"density": 90,
+									"vertical_size": 10,
+									"horizontal_size": 10,
+									"biomes": [
+										"Aether"
+									  ],
+									  "dimensions": [
+										4
+									]}
+		                        }
