@@ -1,0 +1,76 @@
+
+{
+  "ID": 44,
+  "Name": "Meadow",
+  "Resource Location": "mist:up_meadow",
+  "Class": "ru.liahim.mist.world.biome.BiomeMistUpMeadow",
+  "Root Height": 3.6999998,
+  "Height Variation": 0.02,
+  "Top Block": "mist:grass_f[growth\u003dtrue,humus\u003d2,snowy\u003dfalse,wet\u003dtrue]",
+  "Filler Block": "mist:dirt_f[humus\u003d0,wet\u003dtrue]",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "14745518",
+  "Temperature": 1.3000001,
+  "Humidity": 0.4,
+  "Water Tint": 14745518,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "PLAINS"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "ru.liahim.mist.entity.EntityForestRunner",
+      "Weight": 20,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.setycz.chickens.entity.EntityChickensChicken",
+      "Weight": 10,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "ru.liahim.mist.entity.EntityForestSpider",
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySkeleton",
+      "Weight": 5,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dna.everythingisbad.entity.EntityStupidSkeleton",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "com.dna.everythingisbad.entity.EntityJesus",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.dna.everythingisbad.entity.EntityHillbilly",
+      "Weight": 5,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}
